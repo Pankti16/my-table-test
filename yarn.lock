@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@Pankti16/my-table@^1.0.2":
-  version "1.0.2"
-  resolved "https://npm.pkg.github.com/download/@Pankti16/my-table/1.0.2/c55c8c1ba6371691259e532cc09e670dda8f4dc9#c55c8c1ba6371691259e532cc09e670dda8f4dc9"
-  integrity sha512-KuLjeq/1fgYh0ASW2NWQEgDiFuWRtkLbd5k7rU1NsiIgMQGJC/x8bhCiY4hX6xqNKfkQ3GIw/amqs+M25uvNAQ==
-
 "@aashutoshrathi/word-wrap@^1.2.3":
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/@aashutoshrathi/word-wrap/-/word-wrap-1.2.6.tgz#bd9154aec9983f77b3a034ecaa015c2e4201f6cf"
@@ -1643,6 +1638,11 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
+
+"@pankti16/my-table@^1.0.3":
+  version "1.0.3"
+  resolved "https://npm.pkg.github.com/download/@pankti16/my-table/1.0.3/2c3e4c570de22d6b742120174f90d0241baca81d#2c3e4c570de22d6b742120174f90d0241baca81d"
+  integrity sha512-IPX/dpNpoFyQZBpB8uW9eb6vDbojA1XWe8psIepwl/Jm0NdtcizC4XS+eHp/GJrqVvgJ7exwxWBxc7yfedBS5w==
 
 "@pmmmwh/react-refresh-webpack-plugin@^0.5.3":
   version "0.5.10"

@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import {Table} from "@Pankti16/my-table";
+import {Table} from "@pankti16/my-table";
 
 function App() {
   const tableRef = React.useRef();
